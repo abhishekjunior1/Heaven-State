@@ -22,5 +22,8 @@ Homyz is a Real Estate website built using the MERN stack with Vite as the bundl
 - [react-router-dom](https://www.npmjs.com/package/react-router-dom): Provides DOM bindings for React Router, enabling navigation within the web application.
 - [swiper](https://swiperjs.com/): A modern carousel library used to showcase property images in an interactive and engaging way.
 
-Link - https://vercel.com/soss-projects-f9ad0a1f/heaven-state
+## Deployment
+
+This project is deployed using [Vercel](https://vercel.com).  
+Access the live application here: [Heaven - Estate](https://vercel.com/soss-projects-f9ad0a1f/heaven-state)
 
