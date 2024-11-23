@@ -1,4 +1,4 @@
-#<a href=" https://vercel.com/soss-projects-f9ad0a1f/heaven-state" target="_blank"> Heaven - Estate - Real Estate Web App</a>
+<a href=" https://vercel.com/soss-projects-f9ad0a1f/heaven-state"> Heaven - Estate - Real Estate Web App</a>
 
 Homyz is a Real Estate website built using the MERN stack with Vite as the bundler. It provides various functionalities for users, including property listings, adding properties to the cart, and contacting the website's support team. The website also utilizes several libraries like axios, framer-motion, react-dom, react-icons, react-router, react-router-dom, swiper, and tailwind CSS for a seamless user experience.
 
